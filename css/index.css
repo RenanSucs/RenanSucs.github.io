@@ -1,0 +1,10 @@
+.galeria{
+    display: flex;
+    justify-content: space-around;
+    flex: 1;
+}
+
+.galeria-item{
+    max-width: 300px;
+    height: 300px;
+}
